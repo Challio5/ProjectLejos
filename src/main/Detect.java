@@ -10,7 +10,6 @@ import lejos.robotics.objectdetection.FeatureListener;
 
 public class Detect extends Thread implements FeatureListener{
 	
-	
 	//lichtsensor
 	private LightSensor lightSensor;
 	
